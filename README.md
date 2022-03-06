@@ -1,8 +1,9 @@
+# Project take-note
+This is a project created which allow to add, or remove notes (http://localhost:3000/list). As well as that, by clicking on note you can get its details on new window (http://localhost:3000/details). 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
